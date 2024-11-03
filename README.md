@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 Software Developer from India, currently in California for a Master’s in Computer Science – living the dream, one line of code (and cup of coffee) at a time!.
+🔭 Software Developer from India, currently in California for a Master’s in Computer Science – living the dream, one line of code (and cup of coffee) at a time!
 
 
 ## 🌐 Socials:
