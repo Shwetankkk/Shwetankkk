@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on Backend Development.<br>👯 I’m looking to collaborate on Backend development & Solidity.<br>🌱 I’m currently learning about Web3.<br>⚡ Fun fact : I love Cats.
+🔭 Software Developer from India, currently in California for a Master’s in Computer Science – living the dream, one line of code (and cup of coffee) at a time!.
 
 
 ## 🌐 Socials:
